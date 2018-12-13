@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multiple_Languge</string>
+    <string name="goodbye">Goodbye</string>
+    <string name="hello">Hello</string>
+    <string name="english">English</string>
+    <string name="vietnamese">VietNamese</string>
+    <string name="say_hello">Say: Hello</string>
+    <string name="say_goodbye">Say: Good bye</string>
+</resources>
