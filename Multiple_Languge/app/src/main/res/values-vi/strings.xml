@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multiple_Languge</string>
+    <string name="goodbye">Tạm biệt</string>
+    <string name="hello">Xin Chào</string>
+    <string name="english">Tiếng Anh</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="say_hello">Nói xin chào nào!</string>
+    <string name="say_goodbye">Nói tạm biệt thôi</string>
+</resources>
